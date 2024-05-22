@@ -1,4 +1,4 @@
-# CRUD con REACT y NET 8 WEB API.
+# Lista Desplegable con HTML/CSS/JAVASCRIPT.
 ![Imagen del proyecto](img/drop2.PNG)
 
 ## Descripción 📑
